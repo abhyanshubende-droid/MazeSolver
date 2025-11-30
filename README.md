@@ -71,12 +71,5 @@ To get a local copy up and running follow these simple example steps.
 
 Distributed under the MIT License. See LICENSE.txt for more information.
 
-<!-- CONTACT -->
-## Contact
-
-YeyoM - [@YeyoMoreno24](https://twitter.com/YeyoMoreno24) - yeyomoreno2003@hotmail.com
-
-Maze Solver - [https://github.com/YeyoM/mazeSolver](https://github.com/YeyoM/mazeSolver)
-
 <!-- MARKDOWN LINKS & IMAGES -->
 [product-screenshot]: public/screenshot.png
